@@ -1,0 +1,51 @@
+div.header{
+    background-color:lightseagreen;
+    text-align: center;
+    font-family: "B Nazanin";
+    overflow: hidden;
+
+}
+div.home{
+    background-color: darkgray;
+    text-align: center;
+    font-family: "B Nazanin";
+    overflow: hidden;
+    height: 45px;
+}
+div.body1{
+    background-color:white;
+    text-align: center;
+    font-family: "B Nazanin";
+    font-size: medium;
+    overflow: hidden;
+}
+div.body2{
+    background-color:white;
+    text-align: center;
+    font-family: "B Nazanin";
+    overflow: hidden;
+
+}
+div.pictures1{
+    background-color:lightgoldenrodyellow;
+    text-align: center;
+    font-family: "B Nazanin";
+    overflow: hidden;
+
+}
+div.finish{
+    background-color:dimgray;
+    text-align: center;
+    font-family: "B Nazanin";
+    overflow: hidden;
+}
+a.return{
+    text-decoration: none;
+    color: black;
+    font-size:large;
+    overflow: hidden;
+}
+span.god{
+    color:blue;
+    font-size: 20px;
+}
